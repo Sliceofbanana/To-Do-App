@@ -53,10 +53,3 @@ This project is built **for practice and learning purposes** only. It serves as 
 - Using `localStorage` in the browser
 
 ---
-
-## 📁 Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/nextjs-todo-practice.git
-   cd nextjs-todo-practice
